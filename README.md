@@ -83,3 +83,4 @@ Update your MySQL credentials in hibernate.cfg.xml.
 Build and run:
 
 mvn clean compile exec:java
+
